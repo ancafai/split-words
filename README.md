@@ -13,11 +13,11 @@ Bonus points if you write some unit tests to prove your implementation is correc
 
 Implementation:
 
-The code for this function is written inside the file jasmine-standalone-3.10.1/src/SplitWords.js
+The code for this function is written inside the file src/SplitWords.js
 
-The tests are written in Jasmine inside the file jasmine-standalone-3.10.1/spec/SplitWordsSpec.js
+The tests are written in Jasmine inside the file spec/SplitWordsSpec.js
 
 How to run the tests:
 
-Drag the file jasmine-standalone-3.10.1/SpecRunner.html into your browser
+Drag the file SpecRunner.html into your browser
 
